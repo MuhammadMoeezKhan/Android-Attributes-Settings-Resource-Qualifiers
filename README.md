@@ -1,0 +1,1 @@
+# Android-Attributes-Settings-Resource-Qualifiers
